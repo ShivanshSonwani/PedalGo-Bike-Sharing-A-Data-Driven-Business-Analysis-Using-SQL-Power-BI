@@ -1,7 +1,5 @@
 # PedalGo Bike Share Dashboard
 
-### Dashboard Link: [Add your Power BI dashboard link here]
-
 ## Problem Statement
 
 PedalGo, a bike-sharing company, requires a dashboard to analyze key performance metrics and provide data-driven insights for decision-making. The goal is to evaluate hourly revenue trends, seasonal revenue patterns, and rider demographics while ensuring an intuitive dashboard design that aligns with company branding.
