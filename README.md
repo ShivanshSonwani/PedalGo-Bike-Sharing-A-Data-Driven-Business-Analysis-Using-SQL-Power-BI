@@ -101,6 +101,16 @@ ON a.yr = b.yr;
 - **Customer Sentiment Analysis:** Leverage surveys and reviews to understand rider behavior.
 - **Expansion Analysis:** Evaluate new locations based on ridership trends.
 
+
+
+## Dashboard Screenshots
+
+![Image](https://github.com/user-attachments/assets/fdf52766-5274-4612-8352-ee34fd2b10f2)
+
+![Image](https://github.com/user-attachments/assets/e54a92ca-1fb6-4035-8fc7-cfa3aba6786e)
+
+![Image](https://github.com/user-attachments/assets/fc7394e2-dded-411f-8028-15886e549ebe)
+
 ---
 
 ###  Conclusion
